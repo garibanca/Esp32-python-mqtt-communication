@@ -17,8 +17,8 @@
 #include "mbedtls/base64.h"
 
 
-const char ssid[] = "ICATCI2";
-const char pass[] = "Muhendislik0";
+const char ssid[] = "Wifi";
+const char pass[] = "Wifisifre";
 
 
 
